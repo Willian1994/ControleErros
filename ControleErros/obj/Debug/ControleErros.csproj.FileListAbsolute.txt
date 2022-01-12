@@ -1,0 +1,10 @@
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\bin\Debug\ControleErros.exe.config
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\bin\Debug\ControleErros.exe
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\bin\Debug\ControleErros.pdb
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\obj\Debug\ControleErros.csproj.AssemblyReference.cache
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\obj\Debug\ControleErros.Form1.resources
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\obj\Debug\ControleErros.Properties.Resources.resources
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\obj\Debug\ControleErros.csproj.GenerateResource.cache
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\obj\Debug\ControleErros.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\obj\Debug\ControleErros.exe
+C:\Users\wirioliveira\source\repos\ControleErros\ControleErros\obj\Debug\ControleErros.pdb
